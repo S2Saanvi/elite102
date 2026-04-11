@@ -7,6 +7,7 @@
                 "terminal.integrated.shell.linux": "/bin/bash",
                 "python.defaultInterpreterPath": "${containerWorkspaceFolder}/.venv/bin/python",
                 "python.venvPath": "${containerWorkspaceFolder}",
+                "python.terminal.activateEnvironment": true,
                 "python.terminal.executeInFileDir": true
             },
             "extensions": [
