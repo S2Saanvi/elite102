@@ -25,8 +25,8 @@ def initialize_database():
     cursor.execute('''
         INSERT INTO your_name (your values here) VALUES
         ('Sajida Shaik', 01021190, '100'),
-        ('Bob', 20100819, '250'),
-        ('Charlie', 07200917, '200')
+        ('Afifa Nitturu', 20100819, '250'),
+        ('Hassete Amsalu', 07200917, '200')
     ''')
     print("Sample data inserted.")
     # Commit the changes and close the connection
